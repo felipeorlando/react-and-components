@@ -1,0 +1,34 @@
+## React e Componentização
+
+- Sobre mim
+  - Felipe, GitHub
+  - Sem livecoding
+- Componentização
+  - Um pouco de história
+  - Componentes e UX
+  - "O computador nasceu para resolver problemas
+    que surgiram no nascimento do computador"
+  - Angular e Single Page Application
+- React
+  - Conceito
+  - Virtual DOM
+  - NPM
+  - ES6 (Class, Import, Const, Let)
+  - Hello World
+  - JSX
+  - Renderização (explicar o pq as libs são separadas)
+  - Webpack e Babel
+  - Estado (State)
+  - Propriedades (Props)
+  - Lifecycle API
+- O que vem a seguir?
+  - React UIs
+  - React Like (Preact, Riot, Inferno.JS)
+    - Performance Preact
+  - Redux
+    - Estado
+    - Arquitetura Flux
+    - Redux
+  - React Native
+    - Renderização
+    - Componentes básicos (View, Text, Image)
