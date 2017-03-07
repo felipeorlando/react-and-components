@@ -13,14 +13,31 @@
   - Conceito
   - Virtual DOM
   - NPM
-  - ES6 (Class, Import, Const, Let)
+  - ES6 (`class`, `import`, `const`, `let`)
   - Hello World
   - JSX
   - Renderização (explicar o pq as libs são separadas)
   - Webpack e Babel
-  - Estado (State)
-  - Propriedades (Props)
+  - Estado (`state`, `setState()`)
+  - Propriedades (`props`)
+  - Referências (`refs`)
+  - Eventos
   - Lifecycle API
+    - Mounting
+      - `constructor()`
+      - `componentWillMount()`
+      - `render()`
+      - `componentDidMount()`
+    - Updating
+      - `componentWillReceiveProps()`
+      - `shouldComponentUpdate()`
+      - `componentWillUpdate()`
+      - `render()`
+      - `componentDidUpdate()`
+    - Unmounting
+      - `componentWillUnmount()`
+  - PropTypes
+  - Requisições AJAX com axios
 - O que vem a seguir?
   - React UIs
   - React Like (Preact, Riot, Inferno.JS)
@@ -32,3 +49,4 @@
   - React Native
     - Renderização
     - Componentes básicos (View, Text, Image)
+  - Quem saguir?
